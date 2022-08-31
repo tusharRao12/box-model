@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: black;
+    color: white;
+}
+.main h1{
+    text-align: center;
+}
+.container{
+    border: 3px solid black;
+    background-color: antiquewhite;
+    padding: 110px;
+    box-sizing: border-box;
+    margin: 34px;
+    width: 50vw;
+    
+}
+#first{
+    color: white;
+}
